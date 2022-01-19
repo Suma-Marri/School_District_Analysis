@@ -25,8 +25,10 @@ There has seem to be some evidence of academic dishonesty in Thomas High School.
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - It did not change as much. After removin their scores, we would have still had the same a close mean between the original and the changed. 
   *With Thomas High School's 9th Grade:*
+  
   <img width="239" alt="image" src="https://user-images.githubusercontent.com/58046234/150069218-fe19e658-2d3e-46b9-ae9e-7ea6ab0ff6bd.png"><img width="250" alt="image" src="https://user-images.githubusercontent.com/58046234/150069292-fe5fb8dd-5fa8-43ff-97da-45f04250a314.png">
   *Without Thomas High School's 9th Grade:*
+  
   <img width="255" alt="image" src="https://user-images.githubusercontent.com/58046234/150069429-89c2a9e4-003d-466a-8439-31a7c9c31373.png"><img width="236" alt="image" src="https://user-images.githubusercontent.com/58046234/150069563-6a37e011-af81-499f-971d-39c9404743d5.png">
 
 - How does replacing the ninth-grade scores affect the following:

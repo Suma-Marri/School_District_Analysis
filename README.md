@@ -7,11 +7,11 @@ There has seem to be some evidence of academic dishonesty in Thomas High School.
 - How is the district summary affected?
   - After changing Thomas High School's 9th grade scores to nan, there was not a large impact in the indvidual reading and math average score and overall pass rate (less than 0.35%), however, there were only 1.2% of the total population, so the change should be considered.
 
-*With Thomas High School's 9th Grade:*
-<img width="795" alt="image" src="https://user-images.githubusercontent.com/58046234/149671657-ba16cff9-c791-49c5-a36c-f5052029f33e.png">
+  *With Thomas High School's 9th Grade:*
+  <img width="795" alt="image" src="https://user-images.githubusercontent.com/58046234/149671657-ba16cff9-c791-49c5-a36c-f5052029f33e.png">
 
-*Without Thomas High School's 9th Grade:*
-<img width="771" alt="image" src="https://user-images.githubusercontent.com/58046234/149669065-26665f13-5876-4cf7-b491-5f9c9837904d.png">
+  *Without Thomas High School's 9th Grade:*
+  <img width="771" alt="image" src="https://user-images.githubusercontent.com/58046234/149669065-26665f13-5876-4cf7-b491-5f9c9837904d.png">
 
 - How is the school summary affected?
   -  It was not affected by a lot. Thomas High School's average reading and math scores only changed by approximately 0.1%.
@@ -23,6 +23,12 @@ There has seem to be some evidence of academic dishonesty in Thomas High School.
   <img width="748" alt="image" src="https://user-images.githubusercontent.com/58046234/150067928-f95a36a6-7cfe-40b5-846a-511359f41d09.png">
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+  - It did not change as much. After removin their scores, we would have still had the same a close mean between the original and the changed. 
+  *With Thomas High School's 9th Grade:*
+  <img width="239" alt="image" src="https://user-images.githubusercontent.com/58046234/150069218-fe19e658-2d3e-46b9-ae9e-7ea6ab0ff6bd.png"><img width="250" alt="image" src="https://user-images.githubusercontent.com/58046234/150069292-fe5fb8dd-5fa8-43ff-97da-45f04250a314.png">
+  *Without Thomas High School's 9th Grade:*
+  <img width="255" alt="image" src="https://user-images.githubusercontent.com/58046234/150069429-89c2a9e4-003d-466a-8439-31a7c9c31373.png"><img width="236" alt="image" src="https://user-images.githubusercontent.com/58046234/150069563-6a37e011-af81-499f-971d-39c9404743d5.png">
+
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
   - Scores by school spending

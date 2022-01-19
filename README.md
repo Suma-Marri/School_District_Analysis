@@ -39,6 +39,7 @@ There has seem to be some evidence of academic dishonesty in Thomas High School.
 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
+  
   *With Thomas High School's 9th Grade (Math and Reading):*
   
   <img width="239" alt="image" src="https://user-images.githubusercontent.com/58046234/150069218-fe19e658-2d3e-46b9-ae9e-7ea6ab0ff6bd.png"><img width="250" alt="image" src="https://user-images.githubusercontent.com/58046234/150069292-fe5fb8dd-5fa8-43ff-97da-45f04250a314.png">
@@ -56,7 +57,7 @@ There has seem to be some evidence of academic dishonesty in Thomas High School.
     
    <img width="633" alt="image" src="https://user-images.githubusercontent.com/58046234/150070445-7d4c9d65-01cb-4a5d-9b68-5e1683747d21.png">
 
-  - Scores by school size: The medium school size had a very small change (also about 0.1%) between both analysis. 
+  - Scores by school size: The medium school size had a very small change (also about 0.1%) between both analysis. Nothting to be concerned about by school size.
  
   *With Thomas High School's 9th Grade:* 
  
@@ -67,7 +68,8 @@ There has seem to be some evidence of academic dishonesty in Thomas High School.
     
     <img width="577" alt="image" src="https://user-images.githubusercontent.com/58046234/150070185-44233793-278e-4301-8721-9e5f6f19f971.png">
     
-  - Scores by school type:
+  - Scores by school type: The charter schools did not change as much (also about 0.1%) between both analysis, so there was no big chnage to be concerned about.
+  
   *With Thomas High School's 9th Grade:* 
   
   <img width="558" alt="image" src="https://user-images.githubusercontent.com/58046234/150071610-57898c86-029b-4a27-a0e2-ec231d5fae38.png">
@@ -79,3 +81,4 @@ There has seem to be some evidence of academic dishonesty in Thomas High School.
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+- 
